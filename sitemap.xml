@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/about.html</loc>
-    <lastmod>2023-03-17T15:58:15.575Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/topics/identity-protection.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/SUMMARY.html</loc>
-    <lastmod>2023-03-17T15:58:16.711Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/topics/privileged-identity-management.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics.html</loc>
-    <lastmod>2023-03-17T15:58:16.991Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/SUMMARY.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/identity-protection.html</loc>
-    <lastmod>2023-03-17T15:58:17.279Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/about.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/hybrid-identity.html</loc>
-    <lastmod>2023-03-17T15:58:17.579Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/index.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/topics/privileged-identity-management.html</loc>
-    <lastmod>2023-03-17T15:58:17.855Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/topics.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-azure-active-directory/index.html</loc>
-    <lastmod>2023-03-17T15:58:18.131Z</lastmod>
+    <loc>https://vanHeemstraSystems.github.io/learning-azure-active-directory/topics/hybrid-identity.html</loc>
+    <lastmod>2024-05-22T08:52:38.167Z</lastmod>
   </url>
 </urlset>
